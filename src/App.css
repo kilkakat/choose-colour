@@ -1,0 +1,27 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.color-selector {
+  display: flex;
+  align-items: center;
+}
+
+.squareColor {
+  width: 400px;
+  height: 400px;
+  margin-left: 400px;
+}
+
+.dropdownButton {
+  background-color: rgb(119, 119, 119);
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  border: 5px solid rgb(62, 62, 62);
+}
+
+.dropdownButton:hover {
+  background-color: rgb(62, 62, 62);
+}
